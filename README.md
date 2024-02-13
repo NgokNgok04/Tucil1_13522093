@@ -1,15 +1,13 @@
 # Tucil1_13522093
 <br />
 <div align="center">
-
   <h1 align="center">Tugas Kecil IF2211 Strategi Algoritma </h1>
-
-    <br />
-  </p>
 </div>
 <!-- ABOUT THE PROJECT -->
+<p align ="center">
 ## About The Project
-Memberi solusi pada permainan Cyberpunk 2077 Breach Protocol dengan Algoritma Brute Force
+1. Memberi solusi pada permainan Cyberpunk 2077 Breach Protocol dengan Algoritma Brute Force
+</p>
 
 <!-- GETTING STARTED -->
 ## Getting Started
