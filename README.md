@@ -1,15 +1,13 @@
 # Tucil1_13522093
-<br />
 <div align="center">
   <h1 align="center">Tugas Kecil IF2211 Strategi Algoritma </h1>
 </div>
-<!-- ABOUT THE PROJECT -->
-<p align ="center">
-## About The Project
-1. Memberi solusi pada permainan Cyberpunk 2077 Breach Protocol dengan Algoritma Brute Force
-</p>
+<!-- PROJECT -->
 
 <!-- GETTING STARTED -->
+## About The Project
+1. Memberi solusi pada permainan Cyberpunk 2077 Breach Protocol dengan Algoritma Brute Force
+
 ## Getting Started
 
 1. Clone repositori ini
@@ -19,4 +17,5 @@
 * C++
 
 <!-- Developer -->
+## Developer
 1. Matthew Vladimir Hutabarat (13522093)
